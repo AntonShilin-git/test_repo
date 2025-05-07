@@ -7,10 +7,10 @@
 git add readme.md
 '''
 - git commit: комментарий по внесенным изменениям
-"""
+'''
 git commit -m "Добавлен файл readme"
-"""
+'''
 - отправка на сервер:
-"""
+'''
 git push origin main
-"""
+'''
